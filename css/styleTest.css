@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Vazir';
+    src: url('../fonts/vazir-font-v27.2.2-Fontjo.com/Vazir-Black.eot');
+    src: url('../fonts/vazir-font-v27.2.2-Fontjo.com/Vazir-Black.ttf');
+    src: url('../fonts/vazir-font-v27.2.2-Fontjo.com/Vazir-Black.woff');
+    src: url('../fonts/vazir-font-v27.2.2-Fontjo.com/Vazir-Black.woff2');
+    src: url('../fonts/vazir-font-v27.2.2-Fontjo.com/Vazir-Bold.eot');
+    src: url('../fonts/vazir-font-v27.2.2-Fontjo.com/Vazir-Bold.ttf');
+    src: url('../fonts/vazir-font-v27.2.2-Fontjo.com/Vazir-Bold.woff');
+    src: url('../fonts/vazir-font-v27.2.2-Fontjo.com/Vazir-Bold.woff2');
+    src: url('../fonts/vazir-font-v27.2.2-Fontjo.com/Vazir-Light.woff') format('woff');
+    src: url('../fonts/Vazir.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    }
+    body{
+    font-family: "Vazir";
+    }
